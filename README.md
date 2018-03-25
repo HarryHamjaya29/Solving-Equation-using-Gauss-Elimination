@@ -1,4 +1,4 @@
-# Tugas Besar Mata Kuliah Aljabar Geometri 1
+# Solving-Equation-using-Gauss-Elimination
 
 Spesifikasi Tubes : https://drive.google.com/open?id=0B4xpMJ_0KDG_bmt2R09LVXV1d2
 
